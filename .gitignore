@@ -1,0 +1,9 @@
+# Hide configuration files
+.env
+config/.cloud
+config/.storage
+config/.HA_VERSION
+config/home-assistant*
+
+# Hide environment configuration
+.idea
