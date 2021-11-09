@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Added configuration for calenders. One for work and one private. The configuration has secret mapping as well.
+
 ## [2021-11-09 - v0.0.1]
 
 ### Added
