@@ -5,6 +5,7 @@ config/.storage
 config/.HA_VERSION
 config/home-assistant*
 config/secrets.yaml
+config/custom_components/apple_airplayer/__pycache__*
 
 # Hide environment configuration
 .idea
