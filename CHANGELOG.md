@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Added configuration for calenders. One for work and one private. The configuration has secret mapping as well.
+- Added weather forecast to the TileBoard.
+- Added WorldClock sensors for West-Greenland, Faroe Islands and Denmark.
 
 ## [2021-11-09 - v0.0.1]
 
