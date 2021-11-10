@@ -14,6 +14,16 @@ house without too much hassle.
 This section focuses on the setup of the devices and as with all things, this is a natural progression through
 time. Therefor this captures the history of the setup of Húsvætti.
 
+## [2021-11-09 - v0.0.2]
+
+- Added Calendar integration to both work and home calenders.
+- Added Met.no integration and created a Weather Tile in the TileBoard.
+- Added WorldClock integration and setup clock for Greenland, Faroe Island and Denmark.
+- Installed HACS into the docker image:
+     - Run the command: ```docker exec -it husvaetti bash```
+     - Inside the docker image run the command: ```wget -O - https://get.hacs.xyz | bash -```
+     - Install the HACS through the Integrations Panel ([see more](https://hacs.xyz/)).
+
 ## [2021-11-09 - v0.0.1]
 
 - Added Apple TV to the setup.
