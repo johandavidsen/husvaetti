@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Added custom_component beoplay to add support for Bang and Olufsen devices.
+- Moved WorldClock to packages structure.
 
 ## [2021-11-09 - v0.0.2]
 
