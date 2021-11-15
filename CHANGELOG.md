@@ -6,10 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Added custom_component beoplay to add support for Bang and Olufsen devices.
+- Added custom_component [beoplay](https://github.com/giachello/beoplay) to add support for Bang and Olufsen devices.
 - Moved WorldClock to packages structure.
 - Changed secret naming convention.
 - Added theme [kibibit](https://github.com/Kibibit/hass-kibibit-theme)
+- Updated [HACS](https://hacs.xyz/) to version 1.17.2.
+- Added Linode to the installation
 
 ## [2021-11-09 - v0.0.2]
 
