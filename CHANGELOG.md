@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [Hassio](https://www.home-assistant.io/installation/raspberrypi#docker-compose).
 - Added Linode binary sensors to UI.
 - Added [Plex](https://www.plex.tv/media-server-downloads/) to the ```docker-compose.yml```.
+- Added [Crypto State](https://github.com/heyajohnny/cryptoinfo), [Crypto Tracker](https://github.com/BigNocciolino/CryptoTracker) 
+  and [Mini Graph Card](https://github.com/kalkih/mini-graph-card).
 
 ## [2021-11-15]
 
