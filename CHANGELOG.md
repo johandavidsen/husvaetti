@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Change docker image to ghcr.io/home-assistant/raspberrypi3-homeassistant:stable, for more infomation see
 [Hassio](https://www.home-assistant.io/installation/raspberrypi#docker-compose).
 - Added Linode binary sensors to UI.
+- Added [Plex](https://www.plex.tv/media-server-downloads/) to the ```docker-compose.yml```.
 
 ## [2021-11-15]
 

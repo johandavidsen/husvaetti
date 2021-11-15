@@ -11,3 +11,10 @@ services:
     privileged: true
     ports:
       - "8123:8123"
+
+  plex:
+    container_name: ${PLEX_NAME}
+    image: "ghcr.io/linuxserver/plex"
+    volumes:
+      - ./config-plex:/config
+    restart: unless-stopped
