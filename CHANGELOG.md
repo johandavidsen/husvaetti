@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Change docker image to ghcr.io/home-assistant/raspberrypi3-homeassistant:stable, for more infomation see
+[Hassio](https://www.home-assistant.io/installation/raspberrypi#docker-compose).
+- Added Linode binary sensors to UI.
+
+## [2021-11-15]
+
 - Added custom_component [beoplay](https://github.com/giachello/beoplay) to add support for Bang and Olufsen devices.
 - Moved [WorldClock](https://www.home-assistant.io/integrations/worldclock/) to packages structure.
 - Changed secret naming convention.
