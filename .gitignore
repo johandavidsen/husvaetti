@@ -5,6 +5,7 @@ config/.storage
 config/.HA_VERSION
 config/home-assistant*
 config/secrets.yaml
+config/known_devices.yaml
 config-plex/
 *__pycache__*
 
