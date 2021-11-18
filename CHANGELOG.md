@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added [Crypto State](https://github.com/heyajohnny/cryptoinfo), [Crypto Tracker](https://github.com/BigNocciolino/CryptoTracker) 
   and [Mini Graph Card](https://github.com/kalkih/mini-graph-card).
 - Added [Mod Card](https://github.com/thomasloven/lovelace-card-mod) and translated ```work-systems``` to faroese.
+- Split the code into submodules.
 
 ## [2021-11-15]
 

@@ -1,0 +1,3 @@
+[submodule "husvaetti-config"]
+	path = husvaetti-config
+	url = git@github.com:johandavidsen/husvaetti-config.git
