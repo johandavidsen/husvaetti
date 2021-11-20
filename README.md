@@ -10,6 +10,16 @@ the faroese word vætti, which can mean poor or miserable creature; boor, oaf, r
 I have choosen to name my home-assistant installation Húsvætti, because it should be a house boor that just automates my
 house without too much hassle.
 
+## Work log
+This section works as a work log for my setup.
+
+### 2021-11-20
+Installed Home Assistant 2021.11.4 on my home instance. As part of the setup I've installed [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home),
+[VSCode Server](https://github.com/hassio-addons/addon-vscode) and setup GIT to fetch the configuration files.
+
+* Steps are : setup SSH key
+* https://peyanski.com/automatic-home-assistant-backup-to-github/#Pushing_all_changes_to_GitHub_manually
+
 ## Active Integrations
 
 - Beoplay
