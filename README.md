@@ -19,6 +19,20 @@ Installed Home Assistant 2021.11.4 on my home instance. As part of the setup I'v
 
 * Steps are : setup SSH key
 * https://peyanski.com/automatic-home-assistant-backup-to-github/#Pushing_all_changes_to_GitHub_manually
+* Install HACS
+  * wget -O - https://get.hacs.xyz | bash -
+  * Add integration HACS
+
+The challenge now is to setup the internal workings of the network and to identify the key components. The inital key 
+components are the 
+
+* WAN - The Wide Area Network is provided by the local internet provider. The modem is also provided by them and as such 
+  is not considered safe.
+* FIREWALL
+* DHCP - The initial setup has a single DHCP and this aims to separate the devices based on IP ranges and functions.
+  The plan is to 
+* DNS
+
 
 ## Active Integrations
 
